@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/github.io/horizon/static/css/main.61b28c0f.chunk.css",
+    "main.js": "/github.io/horizon/static/js/main.2c6ae832.chunk.js",
+    "main.js.map": "/github.io/horizon/static/js/main.2c6ae832.chunk.js.map",
+    "runtime-main.js": "/github.io/horizon/static/js/runtime-main.2d52ebbd.js",
+    "runtime-main.js.map": "/github.io/horizon/static/js/runtime-main.2d52ebbd.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/github.io/horizon/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5bd9b199.chunk.js": "/github.io/horizon/static/js/2.5bd9b199.chunk.js",
+    "static/js/2.5bd9b199.chunk.js.map": "/github.io/horizon/static/js/2.5bd9b199.chunk.js.map",
+    "index.html": "/github.io/horizon/index.html",
+    "precache-manifest.8fb3c166e9538c7d112cdf951a94c5d7.js": "/github.io/horizon/precache-manifest.8fb3c166e9538c7d112cdf951a94c5d7.js",
+    "service-worker.js": "/github.io/horizon/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/github.io/horizon/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.61b28c0f.chunk.css.map": "/github.io/horizon/static/css/main.61b28c0f.chunk.css.map",
+    "static/js/2.5bd9b199.chunk.js.LICENSE.txt": "/github.io/horizon/static/js/2.5bd9b199.chunk.js.LICENSE.txt",
+    "static/media/ihorizon.png": "/github.io/horizon/static/media/ihorizon.d44ee16c.png",
+    "static/media/logo1.png": "/github.io/horizon/static/media/logo1.9305a295.png",
+    "static/media/logo2.png": "/github.io/horizon/static/media/logo2.9042f8b7.png",
+    "static/media/logo3.png": "/github.io/horizon/static/media/logo3.66a2fd04.png",
+    "static/media/logo4.png": "/github.io/horizon/static/media/logo4.ffcf8cae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d52ebbd.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5bd9b199.chunk.js",
+    "static/css/main.61b28c0f.chunk.css",
+    "static/js/main.2c6ae832.chunk.js"
+  ]
+}
